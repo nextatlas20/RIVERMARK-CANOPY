@@ -1,0 +1,1 @@
+Current-inspection and category rules are defined in the task request.
